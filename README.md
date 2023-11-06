@@ -1,1 +1,1 @@
-# mini_projects
+This folder includes mini projects about different programming languages.
